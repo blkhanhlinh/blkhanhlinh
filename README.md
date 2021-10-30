@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Khanh Linh
-- 👀 I’m interested in reading book and designing
-- 🌱 I’m currently learning Computer Science at University of Information Technology - VNUHCM
+- 👋 Hi, I’m Khanh Linh.
+- 👀 I’m interested in reading book, designing, and of course coding.
+- 🌱 I’m currently learning Computer Science at University of Information Technology - VNUHCM.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
