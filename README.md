@@ -6,9 +6,9 @@
 
 🎓 I’m pursuing a Bachelor's degree in **Computer Science**.
 
-📚 I’m currently learning 
-- How to build Responsive Website with React
-- Blockchain and algorithms
+📚 I’m currently learning:
+- How to build **Responsive Website with React**
+- **Blockchain and algorithms**
 
 ⚡ I am passionate about **programming, graphic design and reading books** (especially detective novel).
 
@@ -16,7 +16,9 @@
 
 🌸 Recently my projects are kid-related, while I am studying I find something nice to do for them.
 
-👀 Fun fact: I love Billie Eilish and I'm quite weird.
+🤝 I'm looking to collaborate with web developer and blockchain developer.
+
+👀 Fun fact: I love Billie Eilish and I'm kinda weird.
 
 
 ## 🚀 **Languages and Tools**:
