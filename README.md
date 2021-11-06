@@ -16,7 +16,7 @@
 
 🌸 Recently my projects are kid-related, while I am studying I find something nice to do for them.
 
-🤝 I'm looking to collaborate with web developer and blockchain developer.
+🤝 I'm looking to collaborate with **web developers and blockchain developers**.
 
 👀 Fun fact: I love Billie Eilish and I'm kinda weird.
 
