@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! I'm Khanh Linh</h1>
-<p align="center"><img width="auto" height="350px" src="https://user-images.githubusercontent.com/87572261/140606549-9cca888d-b231-427f-b2e5-ae8c27ac63d7.png"/></p>
 <h3 align="center">I’m majoring in Computer Science at University of Information Technology - VNUHCM.</h3>
 
 ## **🙋 About Me**
