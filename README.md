@@ -10,7 +10,7 @@
 
 ⚡ I am passionate about **programming, graphic design and reading books** (especially detective novel). I'm a person who always kills brain cells when design something, but I enjoy it! Besides, I often learn new things about technology.
 
-🌸 Recently my projects are kid-related, while I am studying I find something nice to do for them.
+🌸 Recently my projects are quite simple, I'm studying harder to create better works.
 
 👀 Fun fact: I love Billie Eilish and I'm kinda weird.
 
