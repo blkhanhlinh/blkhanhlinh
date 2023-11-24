@@ -1,35 +1,68 @@
 <h1 align="center">Hi there! I'm Khanh Linh</h1>
-<h3 align="center">I’m majoring in Computer Science at University of Information Technology - VNUHCM.</h3>
+<h3 align="center">A junior Computer Science student at University of Information Technology - VNUHCM.</h3>
 
 ## **🙋 About Me**
 
 🎓 I’m pursuing a Bachelor's degree in **Computer Science**.
 
 📚 I’m currently learning:
-- Fullstack on fullstackopen.com
+- Fullstack
+- Generative AI
+- IELTS :(
 
-⚡ I am passionate about **programming, graphic design and reading books** (especially detective novel). I'm a person who always kills brain cells when design something, but I enjoy it! Besides, I often learn new things about technology.
+⚡ I am passionate about **programming, graphic design, and reading books** (especially detective novels). I'm a person who always kills brain cells when designing something, but I enjoy it! Besides, I often learn new things about technology.
 
 🌸 Recently my projects are quite simple, I'm studying harder to create better works.
 
-👀 Fun fact: I love Billie Eilish and I'm kinda weird.
+👀 Fun fact: I love Billie Eilish, and I am often deep into music when I get lost.
 
 
 ## 🚀 **Languages and Tools**:
 
-### 💻 **Programming languages**
+### 💻 **Programming**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/blkhanhlinh) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/blkhanhlinh) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/blkhanhlinh) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/blkhanhlinh) 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/blkhanhlinh) 
+<p align="left" style="display:flex;flex-direction:row;gap:8px;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
 
-### 🎨 **Design tools**
-
-[![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)]() 
-[![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]() 
-[![Premiere](https://aleen42.github.io/badges/src/premiere.svg)]() 
+### 🎨 **Design**
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+</p>
 
 
 ## 💬 **Connect with me**
@@ -39,5 +72,8 @@
 [![Linkedin](https://img.shields.io/badge/blkhanhlinh-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/blkhanhlinh)
 [![Twitter](https://img.shields.io/badge/-@blkhanhlinh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/blkhanhlinh)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blkhanhlinh&show_icons=true&locale=en&layout=compact" alt="blkhanhlinh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blkhanhlinh&show_icons=true&locale=en" alt="blkhanhlinh" /></p>
 
 ⭐️ From [blkhanhlinh](https://github.com/blkhanhlinh)
