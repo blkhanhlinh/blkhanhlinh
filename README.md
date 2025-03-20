@@ -1,14 +1,12 @@
-<h1 align="center">Hi there! I'm Khanh Linh</h1>
-<h3 align="center">A junior Computer Science student at University of Information Technology - VNUHCM.</h3>
+<h1 align="center">Hi there! I'm Khanh Linh (Lilah)</h1>
+<h3 align="center">A Frontend Engineer | UX/UI Designer (Freelancer)</h3>
 
 ## **🙋 About Me**
 
-🎓 I’m pursuing a Bachelor's degree in **Computer Science**.
-
 📚 I’m currently learning:
 - Fullstack
+- Web3
 - Generative AI
-- IELTS :(
 
 ⚡ I am passionate about **programming, graphic design, and reading books** (especially detective novels). I'm a person who always kills brain cells when designing something, but I enjoy it! Besides, I often learn new things about technology.
 
